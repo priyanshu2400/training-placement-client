@@ -20,6 +20,8 @@ This repository contains the client-side code for the Training and Placement Por
 ![Chatbot](screenshots/chatbot.png)
 ![Profile Completion](screenshots/profile-completion.png)
 ![Admin Excel Download](screenshots/admin-excel-download.png)
+![Blogs Page](screenshots/blogs-page.png)
+![Announcements Page](screenshots/announcements-page.png)
 
 ## Installation
 
